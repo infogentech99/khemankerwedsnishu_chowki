@@ -139,9 +139,9 @@ export default function CoupleMessage() {
                 Suveera (Sister) <br />
                 Karishma (Sister)
                 <br />
-                Vibuti (Sister)
+                Vibhuti (Sister)
                 <br />
-                Vabhav (Brother) <br />
+                Vaibhav (Brother) <br />
                 Chirag (Brother)
               
               </h2>
