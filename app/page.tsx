@@ -188,7 +188,7 @@ export default function Home() {
             </h2>
 
             <p className="text-[#15528A] font-playfair-display text-sm md:text-xl lg:text-3xl">
-              (D/O Monika & Ved Prakash Batta)
+              (D/O Monika & Ved Parkash Batta)
             </p>
 
             <p className="text-[#15528A] font-playfair-display text-sm md:text-xl lg:text-3xl mt-8">
