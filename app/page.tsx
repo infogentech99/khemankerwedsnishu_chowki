@@ -179,7 +179,7 @@ export default function Home() {
             </h2>
 
             <p className="text-[#15528A] font-playfair-display text-sm md:text-xl lg:text-3xl">
-              (S/O Rakesh & Sunita)
+              (S/O Rakesh & Sunita Kakkar)
             </p>
 
             <h2 className="text-[#15528A] font-parisienne-regular text-center mt-4 text-4xl md:text-6xl lg:text-[100px] leading-tight font-medium">
@@ -188,7 +188,7 @@ export default function Home() {
             </h2>
 
             <p className="text-[#15528A] font-playfair-display text-sm md:text-xl lg:text-3xl">
-              (D/O Monika & Ved Parkash Batta)
+              (D/O Monika & Ved Parkash)
             </p>
 
             <p className="text-[#15528A] font-playfair-display text-sm md:text-xl lg:text-3xl mt-8">
